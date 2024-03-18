@@ -1,6 +1,6 @@
 IBM Full Stack Software Developer
 
-These are my 10 certificates of React full stack Development :
+These are my 12 certificates of React full stack Development :
 These are coursera IBM Full Stack Software Developer certificates
 1) Introduction to Cloud Computing
 2) Introduction to Web Development with HTML, CSS, JavaScript
